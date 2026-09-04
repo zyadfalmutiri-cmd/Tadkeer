@@ -1,0 +1,12 @@
+{
+  "name": "tadkeer",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4"
+  },
+  "devDependencies": {
+    "@vercel/node": "^3.2.7",
+    "typescript": "^5.5.4"
+  }
+}
